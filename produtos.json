@@ -1,0 +1,111 @@
+[{
+		"id":	"PROD001",
+		"nome":	"Camiseta Oversized Akai Oni",
+		"descricao":	"Camiseta streetwear 100% algodão fio 30.1 penteado com estampa silk screen nas costas inspirada em máscaras Oni japonesas.",
+		"categoria":	"Vestuário",
+		"tamanho":	"G",
+		"fornecedor":	"Malharia Streetwear Brasil",
+		"preco_fornecedor":	42.9,
+		"preco_loja":	89.9,
+		"quantidade_estoque":	25,
+		"ativo":	true
+	}, {
+		"id":	"PROD002",
+		"nome":	"Moletom Canguru Cyber Tokyo",
+		"descricao":	"Moletom flanelado 3 cabos preto com capuz forrado e estampa frontal temática cyberpunk em DTF de alta definição.",
+		"categoria":	"Vestuário",
+		"tamanho":	"GG",
+		"fornecedor":	"Estamparia Silk & DTF Ltda",
+		"preco_fornecedor":	85,
+		"preco_loja":	179.9,
+		"quantidade_estoque":	14,
+		"ativo":	true
+	}, {
+		"id":	"PROD003",
+		"nome":	"Calça Cargo Techwear Ninja",
+		"descricao":	"Calça cargo em sarja resistente com 6 bolsos utilitários, fitas decorativas e elástico ajustável no tornozelo.",
+		"categoria":	"Vestuário",
+		"tamanho":	"M",
+		"fornecedor":	"Malharia Streetwear Brasil",
+		"preco_fornecedor":	78.5,
+		"preco_loja":	159.9,
+		"quantidade_estoque":	10,
+		"ativo":	true
+	}, {
+		"id":	"PROD004",
+		"nome":	"Shoulder Bag Akai Urban",
+		"descricao":	"Bolsa transversal compacta em nylon impermeável com alça ajustável, fecho reforçado e patch frontal bordado.",
+		"categoria":	"Acessórios",
+		"tamanho":	"Único",
+		"fornecedor":	"Acessorios Urbanos Atacado",
+		"preco_fornecedor":	28,
+		"preco_loja":	64.9,
+		"quantidade_estoque":	30,
+		"ativo":	true
+	}, {
+		"id":	"PROD005",
+		"nome":	"Boné Dad Hat Kanji Red",
+		"descricao":	"Boné aba curva em sarja preta lavada com regulador metálico e bordado frontal em vermelho.",
+		"categoria":	"Acessórios",
+		"tamanho":	"Único",
+		"fornecedor":	"Acessorios Urbanos Atacado",
+		"preco_fornecedor":	22.5,
+		"preco_loja":	54.9,
+		"quantidade_estoque":	18,
+		"ativo":	true
+	}, {
+		"id":	"PROD006",
+		"nome":	"Camiseta Estonada Mecha Unit-01",
+		"descricao":	"Camiseta com lavagem estonada vintage e arte exclusiva estilo anime mecha retrô dos anos 90.",
+		"categoria":	"Vestuário",
+		"tamanho":	"M",
+		"fornecedor":	"Estamparia Silk & DTF Ltda",
+		"preco_fornecedor":	45,
+		"preco_loja":	94.9,
+		"quantidade_estoque":	20,
+		"ativo":	true
+	}, {
+		"id":	"PROD007",
+		"nome":	"Ecobag Canvas Shibuya",
+		"descricao":	"Sacola ecológica reforçada em lona de algodão cru 280g com ilustração minimalista urbana.",
+		"categoria":	"Acessórios",
+		"tamanho":	"Único",
+		"fornecedor":	"Embalagens E-commerce Express",
+		"preco_fornecedor":	14.9,
+		"preco_loja":	39.9,
+		"quantidade_estoque":	40,
+		"ativo":	true
+	}, {
+		"id":	"PROD008",
+		"nome":	"Kit 3 Pins Metálicos Geek",
+		"descricao":	"Conjunto com três broches esmaltados de alta durabilidade com trava de silicone e temática cultura pop japonesa.",
+		"categoria":	"Colecionáveis",
+		"tamanho":	"Único",
+		"fornecedor":	"Importadora Geek & Anime SP",
+		"preco_fornecedor":	9.5,
+		"preco_loja":	29.9,
+		"quantidade_estoque":	50,
+		"ativo":	true
+	}, {
+		"id":	"PROD009",
+		"nome":	"Meia Cano Alto Street Flame",
+		"descricao":	"Par de meias esportivas em algodão atoalhado com detalhes em vermelho e preto na canela.",
+		"categoria":	"Acessórios",
+		"tamanho":	"38-43",
+		"fornecedor":	"Acessorios Urbanos Atacado",
+		"preco_fornecedor":	11,
+		"preco_loja":	27.9,
+		"quantidade_estoque":	35,
+		"ativo":	true
+	}, {
+		"id":	"PROD010",
+		"nome":	"Jaqueta Corta-Vento Samurai",
+		"descricao":	"Jaqueta leve em tactel resistente à água com forro interno telado, zíper tratorado e estampa nas mangas.",
+		"categoria":	"Vestuário",
+		"tamanho":	"G",
+		"fornecedor":	"Importadora Geek & Anime SP",
+		"preco_fornecedor":	92,
+		"preco_loja":	199.9,
+		"quantidade_estoque":	8,
+		"ativo":	true
+	}]

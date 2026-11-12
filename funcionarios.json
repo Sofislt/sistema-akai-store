@@ -1,0 +1,70 @@
+[{
+		"id":	"EMP-001",
+		"nome_completo":	"Mariana Costa Silva",
+		"cpf":	"111.222.333-44",
+		"senha":	"123",
+		"cargo":	"Gerente de Loja",
+		"departamento":	"Gestão",
+		"data_admissao":	"2022-03-15",
+		"salario_base":	4500,
+		"ativo":	true,
+		"contato":	{
+			"email":	"mariana.silva@gmail.com",
+			"telefone":	"+55 82 98765-4321"
+		},
+		"turno":	"Integral (10:00 - 19:00)"
+	}, {
+		"id":	"EMP-002",
+		"nome_completo":	"Lucas Andrade",
+		"cpf":	"222.333.444-55",
+		"senha":	"1234",
+		"cargo":	"Vendedor",
+		"departamento":	"Vendas",
+		"data_admissao":	"2023-06-10",
+		"salario_base":	2400,
+		"ativo":	true,
+		"contato":	{
+			"email":	"lucas.andrade@gmail.com",
+			"telefone":	"+55 82 97654-3210"
+		},
+		"turno":	"Abertura (10:00 - 18:20)"
+	}, {
+		"id":	"EMP-003",
+		"nome_completo":	"Beatriz Takahashi",
+		"cpf":	"333.444.555-66",
+		"senha":	"12345",
+		"cargo":	"Vendedora",
+		"departamento":	"Vendas",
+		"data_admissao":	"2023-11-01",
+		"salario_base":	2400,
+		"ativo":	true,
+		"contato":	{
+			"email":	"beatriz.takahashi@gmail.com",
+			"telefone":	"+55 82 96543-2109"
+		},
+		"turno":	"Fechamento (13:40 - 22:00)"
+	}, {
+		"id":	"EMP-004",
+		"nome_completo":	"Rafael Mendes",
+		"cpf":	"444.555.666-77",
+		"senha":	"123456",
+		"cargo":	"Estoquista e E-commerce",
+		"departamento":	"Logística",
+		"data_admissao":	"2024-02-20",
+		"salario_base":	2100,
+		"ativo":	true,
+		"contato":	{
+			"email":	"rafael.mendes@gmail.com",
+			"telefone":	"+55 82 95432-1098"
+		},
+		"turno":	"Integral (09:00 - 18:00)"
+	}, {
+		"id":	"EMP-005",
+		"nome_completo":	"daniel",
+		"cpf":	"345",
+		"senha":	"890",
+		"cargo":	"vendedor",
+		"salario_base":	2400,
+		"ativo":	true
+	}
+]
